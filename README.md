@@ -16,9 +16,9 @@ A simple AI Chatbot frontend application that allows users to interact with an A
 
 ##  Tech Stack
 
-- Frontend: React.js / Angular (update as per your project)
-- Styling: CSS / Bootstrap / Tailwind
-- API: REST API / OpenAI API (if used)
+- Frontend: React.js 
+- Styling: CSS / Bootstrap 
+- API: REST API / OpenAI API 
 
 ---
 
